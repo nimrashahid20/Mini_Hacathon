@@ -1,0 +1,103 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between; 
+    padding: 20px;   
+}
+#hiring-btn{
+    background-color:#1c5cff;
+    color: aliceblue;
+    width: 100px;
+    height: 40px;
+    border-color: #1c5cff;
+    border-radius: 10px;
+
+}
+#login_btn{
+    background-color:#1c5cff;
+    color: aliceblue;
+    width: 200px;
+    height: 40px;
+    border-color: #1c5cff;
+    border-radius: 10px;
+
+}
+#searchbar{
+    width: 400px;
+    height: 40px;
+    border-color: gray;
+    border-radius: 30px;
+    font-size: large;
+    text-transform: capitalize;
+    text-align: center;
+}
+#main-hadding{
+    font-size: 60px;
+    margin-bottom: 0%;
+}
+#main_para{
+    color: gray;
+    font-size: 20px;
+  
+}
+#main_text{
+    padding: 40px;
+}
+#main_section{
+    display: flex;
+}
+h3{
+    color: #1c5cff;
+}
+ul{
+    list-style: none;
+}
+
+
+
+
+.signup{
+    padding:50px;
+
+}
+h4{
+    color: blue;
+    font-size: 20px;
+}
+input{
+    width: 20%;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#submit_btn{
+    width: 10%;
+    height: 35px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: #1c5cff;
+    color: white;
+}
+.container{
+    text-align: center;
+}
+#title{
+  border: 1px solid black;
+  font-size: 20px;
+}
+#description{
+    border: 1px solid black;
+  font-size: 20px;
+}
+#postbtn{
+    border: 2px solid balck;
+    background-color: #1c5cff;
+    color: white;
+    border-radius: 10px;
+    width: 80px;
+}
